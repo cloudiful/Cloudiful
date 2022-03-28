@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cloudiful
-- 👀 I’m interested in music, AI
+- 👀 I’m interested in Programming, AI and Music
 - 🌱 I’m currently learning python and AI
 - 💞️ Not looking to collaborate on anything cause I'm currently not capable of.
 - 📫 Reach at cloudiful@outlook.com
